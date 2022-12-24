@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AvantikaRathour
-- 👀 I’m interested in 
+- 👀 I’m interested in learning new things
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on website development
 - 📫 How to reach me avantikasingh.rathour@gmail.com
